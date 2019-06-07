@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3a6640d678507c08a394f9cb6f63013",
+    "revision": "3f3b5281761c5c47867b3c8cec4c241c",
     "url": "/poc-mosaic/index.html"
   },
   {
-    "revision": "716b2f058201b6032542",
+    "revision": "41798db0c6e8b5006e25",
     "url": "/poc-mosaic/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "7400aebfb69281a3346e",
-    "url": "/poc-mosaic/static/js/2.879b8901.chunk.js"
+    "revision": "5cf08f3a79db56b74e9f",
+    "url": "/poc-mosaic/static/js/2.18d07f17.chunk.js"
   },
   {
-    "revision": "716b2f058201b6032542",
-    "url": "/poc-mosaic/static/js/main.e5558d93.chunk.js"
+    "revision": "41798db0c6e8b5006e25",
+    "url": "/poc-mosaic/static/js/main.c474ea67.chunk.js"
   },
   {
     "revision": "fd208728ef607718014e",

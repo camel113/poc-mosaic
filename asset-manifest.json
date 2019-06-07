@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/poc-mosaic/static/css/main.2cce8147.chunk.css",
-    "main.js": "/poc-mosaic/static/js/main.25c1f9eb.chunk.js",
-    "main.js.map": "/poc-mosaic/static/js/main.25c1f9eb.chunk.js.map",
+    "main.js": "/poc-mosaic/static/js/main.e5558d93.chunk.js",
+    "main.js.map": "/poc-mosaic/static/js/main.e5558d93.chunk.js.map",
     "runtime~main.js": "/poc-mosaic/static/js/runtime~main.a3cc383c.js",
     "runtime~main.js.map": "/poc-mosaic/static/js/runtime~main.a3cc383c.js.map",
-    "static/js/2.11db198c.chunk.js": "/poc-mosaic/static/js/2.11db198c.chunk.js",
-    "static/js/2.11db198c.chunk.js.map": "/poc-mosaic/static/js/2.11db198c.chunk.js.map",
+    "static/js/2.879b8901.chunk.js": "/poc-mosaic/static/js/2.879b8901.chunk.js",
+    "static/js/2.879b8901.chunk.js.map": "/poc-mosaic/static/js/2.879b8901.chunk.js.map",
     "index.html": "/poc-mosaic/index.html",
-    "precache-manifest.7d7c9025f5346d9636f159b549479886.js": "/poc-mosaic/precache-manifest.7d7c9025f5346d9636f159b549479886.js",
+    "precache-manifest.14498e88b0c28069b050232498ad2bb5.js": "/poc-mosaic/precache-manifest.14498e88b0c28069b050232498ad2bb5.js",
     "service-worker.js": "/poc-mosaic/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/poc-mosaic/static/css/main.2cce8147.chunk.css.map",
     "static/media/selfie.jpg": "/poc-mosaic/static/media/selfie.a5a0322b.jpg"

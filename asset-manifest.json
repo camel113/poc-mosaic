@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/poc-mosaic/static/css/main.2cce8147.chunk.css",
-    "main.js": "/poc-mosaic/static/js/main.777649a1.chunk.js",
-    "main.js.map": "/poc-mosaic/static/js/main.777649a1.chunk.js.map",
+    "main.js": "/poc-mosaic/static/js/main.c85e8d22.chunk.js",
+    "main.js.map": "/poc-mosaic/static/js/main.c85e8d22.chunk.js.map",
     "runtime~main.js": "/poc-mosaic/static/js/runtime~main.a3cc383c.js",
     "runtime~main.js.map": "/poc-mosaic/static/js/runtime~main.a3cc383c.js.map",
     "static/js/2.18d07f17.chunk.js": "/poc-mosaic/static/js/2.18d07f17.chunk.js",
     "static/js/2.18d07f17.chunk.js.map": "/poc-mosaic/static/js/2.18d07f17.chunk.js.map",
     "index.html": "/poc-mosaic/index.html",
-    "precache-manifest.6918cf5000db7ed56aff02ff9b8a54c4.js": "/poc-mosaic/precache-manifest.6918cf5000db7ed56aff02ff9b8a54c4.js",
+    "precache-manifest.5b6be7287d8dccf0252ae532aa00b5ba.js": "/poc-mosaic/precache-manifest.5b6be7287d8dccf0252ae532aa00b5ba.js",
     "service-worker.js": "/poc-mosaic/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/poc-mosaic/static/css/main.2cce8147.chunk.css.map",
-    "static/media/selfie.jpg": "/poc-mosaic/static/media/selfie.a5a0322b.jpg"
+    "static/media/selfie60.jpg": "/poc-mosaic/static/media/selfie60.49d89491.jpg"
   }
 }

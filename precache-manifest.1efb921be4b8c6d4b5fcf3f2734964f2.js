@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93bc7c555e7897f044d71822b77ce0f5",
+    "revision": "f60fad94fca3d4a5f2d05b5914559c7f",
     "url": "/poc-mosaic/index.html"
   },
   {
-    "revision": "5d0e082ba0d6b90a6674",
+    "revision": "7419c96aeceac560b86a",
     "url": "/poc-mosaic/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poc-mosaic/static/js/2.1220f042.chunk.js"
   },
   {
-    "revision": "5d0e082ba0d6b90a6674",
-    "url": "/poc-mosaic/static/js/main.ea138cbb.chunk.js"
+    "revision": "7419c96aeceac560b86a",
+    "url": "/poc-mosaic/static/js/main.7097782b.chunk.js"
   },
   {
     "revision": "fd208728ef607718014e",
